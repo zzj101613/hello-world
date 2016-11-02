@@ -2,9 +2,29 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>hello world</title>
+	<title>task1</title>
 </head>
 <body>
-	my first message
+	<h1>网站一级标题</h1>
+	<ul>
+		<li><a href="">导航链接</a></li>
+		<li><a href="">导航链接</a></li>
+		<li><a href="">导航链接</a></li>
+		<li><a href="">导航链接</a></li>
+	</ul>
+	<article>
+		<h1>文章标题</h1>
+		<h2>文章标题</h2>
+		<p>张三 <time>2016年11月2日</time></p>
+		<p>
+			不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话<br>
+			不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话<br>
+			不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话<br>
+			不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话<br>
+			不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话不要看这是一段废话<a href = "http://ife.baidu.com">这里有一个链接连接到http://ife.baidu.com</a>
+		</p>
+	</article>
+	
+
 </body>
 </html>
